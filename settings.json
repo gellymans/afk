@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "gellymans.aternos.me",
+    "port": 57518,
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
